@@ -1,6 +1,6 @@
 # User Stories
 
-Format: As a student, I want to make a new project, so that i can and improve.
+Format: As a student, I want to make a new project, so that i can learn and improve.
 
 1. As a ..., I want ..., so that ...
 2. As a ..., I want ..., so that ...
