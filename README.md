@@ -1,4 +1,4 @@
-# [Chatbot]
+# Chatbot
 
 [One sentence: what problem does this project solve, and for whom?]
 
